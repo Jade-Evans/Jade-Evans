@@ -1,8 +1,8 @@
 
-# 🌿 Jade Evans | Full Stack Software Engineer
+# 🌿 Jade Evans | Software Engineer
 🍃 She/Her  
 📍 Gloucestershire, United Kingdom  
-🔗 LinkedIn Profile
+
 
 ────────────────────────────────────────
 
